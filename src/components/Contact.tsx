@@ -31,10 +31,10 @@ const Contact = () => {
               </div>
               <div className="flex items-center">
                 <Phone className="text-gold mr-4" size={24} />
-                <p>(11) 99999-9999</p>
+                <p>+55 19 99421-3478</p>
               </div>
               <div className="flex space-x-4 mt-8">
-                <a href="#" className="text-gold hover:text-white transition">
+                <a href="https://www.instagram.com/nm.studioofc?igsh=ODRpM2wyZ2lldGQ0" className="text-gold hover:text-white transition">
                   <Instagram size={24} />
                 </a>
                 <a href="#" className="text-gold hover:text-white transition">

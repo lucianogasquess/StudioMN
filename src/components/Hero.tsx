@@ -17,6 +17,7 @@ const Hero = () => {
       <div className="container mx-auto px-4 relative z-10">
         <div className="max-w-3xl">
           <h1 className="text-5xl md:text-7xl font-bold mb-6">
+          
             <span className="text-gold">Studio MN</span>
             <br />
             Beleza & Estilo
@@ -29,7 +30,7 @@ const Hero = () => {
             className="inline-flex items-center px-8 py-3 bg-gold text-black font-semibold rounded hover:bg-gold/90 transition transform hover:scale-105"
           >
             <Scissors className="mr-2" size={20} />
-            Agende seu Horário
+            <a href="https://topsalao.com/?id=130610" target="_blank">Agende seu Horário</a>
           </a>
         </div>
       </div>

@@ -8,6 +8,7 @@ const Header = () => {
     <header className="fixed w-full bg-black/90 backdrop-blur-sm z-50">
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-20">
+      
           <a href="#" className="text-2xl font-bold text-gold">
             Studio MN
           </a>
